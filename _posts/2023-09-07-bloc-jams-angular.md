@@ -1,13 +1,13 @@
 ---
 layout: inner
 position: right
-title: 'Project 4'
-date: 2023-09-07 14:15:00
+title: 'Project 1'
+date: 2023-09-07 
 categories: 
-tags: proj4 proj4 proj4
-featured_image: '/img/posts/01_bloc-jams-angular-1130x864-2x.png'
+tags: proj1 proj1 proj1
+featured_image: '/img/posts/stock_photo.png'
 project_link: 'https://www.google.com/'
 button_icon: 
 button_text: 'Visit Project'
-lead_text: 'Project 4 description'
+lead_text: 'Project 1 description'
 ---
