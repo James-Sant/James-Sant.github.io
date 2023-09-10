@@ -17,7 +17,7 @@ title: "James Santarpio"
 email: 'santarpioj1@gmail.com'
 description: "I'm an undergraduate student studying Financial Engineering at Montana State"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://James-Sant.github.io" # the base hostname & protocol for your site, e.g. https://example.com
+url: "https://James-Sant.github.io.phantom" # the base hostname & protocol for your site, e.g. https://example.com
 twitter_username: ''
 github_username: 'James-Sant'
 medium_username: ''
