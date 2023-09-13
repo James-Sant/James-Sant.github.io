@@ -1,13 +1,13 @@
 ---
 layout: inner
 position: right
-title: 'Project 1'
+title: 'Project 4'
 date: 2023-09-07 
 categories: 
-tags: proj1 proj1 proj1
+tags: proj4 proj4 proj4
 featured_image: '/img/posts/stock_photo.png'
 project_link: 'https://www.google.com/'
 button_icon: 
 button_text: 'Visit Project'
-lead_text: 'Project 1 description'
+lead_text: 'Project 4 description'
 ---
