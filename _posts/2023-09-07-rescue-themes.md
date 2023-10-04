@@ -1,13 +1,13 @@
 ---
 layout: inner
 position: right
-title: 'Project 2'
-date: 2023-09-07 
+title: 'Shill Bidding Classification Report'
+date: 2023-10-03 
 categories:
-tags: proj2 proj2 proj2
+tags: classification
 featured_image: '/img/posts/stock_photo.png'
-project_link: 'https://www.google.com/'
-button_text: 'Visit proj'
+project_link: 'https://github.com/James-Sant/Shill-Bidding'
+button_text: 'Visit project'
 button_icon: 
-lead_text: proj 2 description
+lead_text: Determining the legitimacy of ebay auction bidders
 ---
