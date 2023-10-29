@@ -8,4 +8,4 @@ I am a senior studying financial engineering at Montana State University with a 
 
 Some of my other interestes include hiking, skiing, surfing and anything else outdoors. I also like to play guitar in my downtime. 
 
-![image title](/img/posts/Me.png){:class="img-responsive"}
+![image title](/img/MeResized.png){: width="250"}
